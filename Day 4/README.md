@@ -15,3 +15,9 @@ incorrectly sized. What is the probability that a batch of 10 pistons will conta
 
 1. No more than 2 rejects?
 2. At least 2 rejects?
+
+<br>**Day 4: Geometric Distribution I**<br>
+
+**Task**	<br>
+The probability that a machine produces a defective product is 1/3. What is the probability that the 1<sup>st</sup> defect
+is found during the 5<sup>th</sup> inspection?
