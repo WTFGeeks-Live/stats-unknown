@@ -25,3 +25,15 @@ hours and a standard deviation of 2 hours. What is the probability that a car ca
 
 1. Less than 19.5 hours?
 2. Between 20 and 22 hours?
+
+<br>**Day 5: Normal Distribution II**<br>
+
+**Task**	<br>
+The final grades for a Physics exam taken by a large group of students have a mean of μ = 70 and a standard deviation of σ =
+10. If we can approximate the distribution of these grades by a normal distribution, what percentage of the students:
+
+1. Scored higher than 80 (i.e., have a grade > 80)?
+2. Passed the test (i.e., have a grade >= 60)?
+3. Failed the test (i.e., have a grade < 60)?
+
+Find and print the answer to each question on a new line, rounded to a scale of 2 decimal places.
